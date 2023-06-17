@@ -1,0 +1,82 @@
+{
+        "supermercados": [
+           {
+              "nombre": "Aldi",
+              "direccion": "Av. Utrera, 41500 Alcala de Guadaira",
+              "latitud": 37.32541537294029, 
+              "longitud": -5.853661144983362,   
+              "productos": [
+                 {
+                    "nombre": "Zumo Piña",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 2.15,
+                    "adquirido": false
+                 },
+                 {
+                    "nombre": "Macarrones",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 2.50,
+                    "adquirido": true
+                 }
+              ]
+           },
+           {
+              "nombre": "Mercadona",
+              "direccion": "C. Duquesa de Talavera, 56, 41500 Alcala de Guadaira, Sevilla",
+              "latitud": 37.338858445095, 
+              "longitud":  -5.851196935199762,
+              "productos": [
+                 {
+                    "nombre": "Harina de trigo",
+                    "oferta": true,
+                    "vigencia": "2023-08-30",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 1.30,
+                    "adquirido": false
+                 },
+                 {
+                    "nombre": "Pack Yogur",
+                    "oferta": false,
+                    "vigencia": "",
+                    "cantidad": 1,
+                    "unidad": "unidad",
+                    "precio": 2.85,
+                    "adquirido": false
+                 }
+                ]
+            },
+            {
+                "nombre": "Dia",
+                "direccion": "Plaza Cervantes, 5, 41500 Alcala de Guadaira, Sevilla",
+                "latitud": 37.33725888393662, 
+                "longitud": -5.8456637314915785,
+                "productos": [
+                   {
+                      "nombre": "Arroz",
+                      "oferta": true,
+                      "vigencia": "2023-09-05",
+                      "cantidad": 1,
+                      "unidad": "unidad",
+                      "precio": 2.25,
+                      "adquirido": false
+                   },
+                   {
+                      "nombre": "Barra de Pan",
+                      "oferta": true,
+                      "vigencia": "2023-09-05",
+                      "cantidad": 1,
+                      "unidad": "unidad",
+                      "precio": 1.50,
+                      "adquirido": false
+                   }
+                  ]
+              }
+    ]
+}
